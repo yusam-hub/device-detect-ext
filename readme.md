@@ -1,10 +1,6 @@
 #### yusam-hub/device-detect-ext
 
-    "php": "^7.4"
-
-#### tests
-
-    sh phpinit
+    "php": ">=7.4 <9.0",
 
 #### setup
 
@@ -19,5 +15,6 @@
     "require": {
         ...
         "yusam-hub/device-detect-ext": "dev-master"
+        "yusam-hub/device-detect-ext": "^1.0"
         ...
     }
